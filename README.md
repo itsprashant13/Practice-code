@@ -1,2 +1,3 @@
 # Practice-code
-This is or practice codes for my project
+This is for practice codes for my project
+Author - Prashant Tondak
